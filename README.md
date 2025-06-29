@@ -20,7 +20,7 @@
 
 ابتدا، پکیج‌های مورد نیاز را نصب کنید:
 ```bash
-npm install axios crypto-js
+npm install axios crypto-js chalk@4.1.2
 ```
 
 ## ⚙️ نحوه استفاده
